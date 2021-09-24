@@ -1,7 +1,8 @@
+import 'dart:async';
+
 import 'package:signalr_pure/signalr_pure.dart';
 import 'package:signalr_pure/src/signalr/connection.dart';
 import 'package:mockito/mockito.dart';
-import 'package:pedantic/pedantic.dart';
 import 'package:test/test.dart';
 
 import 'common.dart';

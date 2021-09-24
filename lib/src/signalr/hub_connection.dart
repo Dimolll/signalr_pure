@@ -2,7 +2,6 @@
 
 import 'dart:async';
 
-import 'package:pedantic/pedantic.dart';
 import 'package:tuple/tuple.dart';
 
 import 'connection.dart';

@@ -2,7 +2,6 @@ import 'dart:async';
 
 import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';
-import 'package:pedantic/pedantic.dart';
 import 'package:signalr_pure/signalr_pure.dart';
 import 'package:test/test.dart';
 
