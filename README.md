@@ -20,11 +20,13 @@ void main() async {
   print(obj);
 }
 ```
+
 ## Acknowledgments
 
 The base of the source code for this library was copied from the [cure][pub_link] package. Thanks to the author.
 
 [pub_link]: https://github.com/yanshouwang/cure/
+
 ## Contact and bugs
 Use [Issue Tracker][issue_tracker] for any questions or bug report.
 

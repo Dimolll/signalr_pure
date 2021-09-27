@@ -1,11 +1,11 @@
 name: signalr_pure
 description: SignalR Pure is a library which contains some useful tools for Signalr. It's SignalR Client.
-version: 1.0.0+2
+version: 1.0.0+3
 homepage: https://github.com/Dimolll/signalr_pure
 publish_to: https://pub.dev
 
 environment:
-  sdk: '>=2.14.1 <3.0.0'
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   ansicolor: ^2.0.1
