@@ -148,7 +148,11 @@ MapEntry<String, String> getUserAgentHeader() {
 }
 
 String constructUserAgent(
-    String version, String os, String runtime, String runtimeVersion) {
+  String version,
+  String os,
+  String runtime,
+  String runtimeVersion,
+) {
   // Microsoft SignalR/[Version] ([Detailed Version]; [Operating System]; [Runtime]; [Runtime Version])
   final majorAndMinor = version.split('.');
   if (os.isEmpty) {
